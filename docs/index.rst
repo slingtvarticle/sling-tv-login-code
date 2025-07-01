@@ -10,7 +10,7 @@ Learn how to activate your Sling TV account using a Sling TV login code. Follow 
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://www.ccleaneraccount.com/login/
+   :target: https://tvsling.net/
 
 Streaming has become a daily part of modern entertainment, and Sling TV continues to be a go-to choice for people who want live TV without the cost or commitment of cable. If you're setting up Sling on a new device like a smart TV, streaming stick, or console, you may encounter something called a Sling TV login code. This unique code plays an essential role in activating your device and syncing it with your Sling account.
 
